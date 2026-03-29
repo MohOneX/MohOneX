@@ -1,16 +1,13 @@
-## Hi there 👋
+## I'm Moh 👋
 
-<!--
-**MohOneX/MohOneX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things and enjoy turning ideas into working projects 
+focused on simplicity, performance, and practical solutions.
 
-Here are some ideas to get you started:
+Tech & Interests:
+Web & desktop development
+UI/UX and product design
+Automation and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Philosophy
+
+Keep it simple. Make it work. Improve it.
